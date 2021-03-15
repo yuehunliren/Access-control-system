@@ -1,0 +1,2 @@
+Re_keypad.c:11:6:keypad_init	24	static
+Re_keypad.c:35:6:keypad_scan	24	static

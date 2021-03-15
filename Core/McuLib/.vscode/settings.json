@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "re_keypad.h": "c",
+        "re_commdrv.h": "c",
+        "re_nativeinterface.h": "c",
+        "re_keypaddrv.h": "c",
+        "re_all_config.h": "c"
+    }
+}

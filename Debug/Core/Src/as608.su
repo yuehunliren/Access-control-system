@@ -1,0 +1,16 @@
+as608.c:11:6:setFrame	16	static
+as608.c:24:9:PS_GetImage	24	static
+as608.c:63:9:PS_GenChar	40	static
+as608.c:107:10:PS_Match	32	static
+as608.c:147:4:PS_Search	40	static
+as608.c:197:4:PS_RegModel	24	static
+as608.c:238:4:PS_StoreChar	32	static
+as608.c:282:4:PS_DeletChar	32	static
+as608.c:327:4:PS_Empty	24	static
+as608.c:368:4:PS_WriteReg	32	static
+as608.c:409:4:PS_ReadSysPara	32	static
+as608.c:461:4:PS_Enroll	32	static
+as608.c:501:4:PS_Identify	32	static
+as608.c:545:4:PS_HighSpeedSearch	40	static
+as608.c:595:6:PS_BetterEnroll	24	static
+as608.c:649:13:EnsureMessage	24	static

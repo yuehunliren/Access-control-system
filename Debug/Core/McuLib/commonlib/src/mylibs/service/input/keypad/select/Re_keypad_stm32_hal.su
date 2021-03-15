@@ -1,0 +1,3 @@
+Re_keypad_stm32_hal.c:30:6:keypad_init_hardware	40	static
+Re_keypad_stm32_hal.c:54:6:keypad_readrow	16	static
+Re_keypad_stm32_hal.c:72:6:keypad_writecol	16	static
