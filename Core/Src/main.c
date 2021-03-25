@@ -42,7 +42,7 @@ char sys[20] = {0};
 //dsda
 SysPara p = {0};
 uint8_t read_ans=0;
-__IO uint8_t readSta=0;
+uint8_t readSta=0;
 uint8_t status_step=0;
 uint16_t pageID;
 uint16_t score;
