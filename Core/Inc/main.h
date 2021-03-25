@@ -60,6 +60,7 @@ void Error_Handler(void);
 /* Private defines -----------------------------------------------------------*/
 #define AS608_Pin GPIO_PIN_1
 #define AS608_GPIO_Port GPIOA
+#define AS608_EXTI_IRQn EXTI1_IRQn
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
